@@ -1,7 +1,7 @@
 
-**📚 iOS Study Companion – Text Summarizer & Exam Tracker**
+**SmartStudyApp-CORE📚**
 
-iOS Study Companion is your all-in-one mobile app built with React Native, designed to boost study efficiency for competitive exam aspirants. Whether you're prepping for GRE, GMAT, CAT, or other major exams, this app helps you study smarter — not harder.
+ SmartStudyApp-CORE is your all-in-one mobile app built with React Native, designed to boost study efficiency for competitive exam aspirants. Whether you're prepping for GRE, GMAT, CAT, or other major exams, this app helps you study smarter — not harder.
 
 **✨ Features**
 
